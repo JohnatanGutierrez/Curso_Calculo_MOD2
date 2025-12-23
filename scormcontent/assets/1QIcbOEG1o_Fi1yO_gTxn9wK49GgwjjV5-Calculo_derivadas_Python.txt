@@ -1,0 +1,4 @@
+from sympy import *
+x, y, z = symbols(' x y z' , real=True)
+f = 4*x*y + x + x**3 + z**8*y + exp(x) + sin (x)
+print(diff (f, x)) # diff() tiene dos argumentos, la función y la bariable respecto a la cual se deriva

@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<manifest identifier="vKSS4E4ovu2uZFje4P--l4Z--8OiSUi5iOi-aWsu" version="1"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                      http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd
+                      http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="articulate_rise">
+      <organization identifier="articulate_rise">
+      <title>Módulo 2: Introducción al cálculo vectorial</title>
+      <item identifier="i1" identifierref="r1" isvisible="true">
+        <title>Módulo 2: Introducción al cálculo vectorial</title>
+        <adlcp:datafromlms>eyJjcHYiOiJpT2ktYVdzdSIsInJsZCI6ZmFsc2V9</adlcp:datafromlms>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="r1" type="webcontent" adlcp:scormtype="sco" href="scormdriver/indexAPI.html">
+      <!-- SCORMDRIVER STUFF -->
+      <file href="scormdriver/indexAPI.html" />
+      <file href="scormdriver/preloadIntegrity.js" />
+      <file href="scormdriver/driverOptions.js" />
+      <file href="scormdriver/AICCComm.html" />
+      <file href="scormdriver/auto-scripts/AutoBookmark.js" />
+      <file href="scormdriver/auto-scripts/AutoCompleteSCO.js" />
+      <file href="scormdriver/auto-scripts/CourseExit.js" />
+      <file href="scormdriver/blank.html" />
+      <file href="scormdriver/goodbye.html" />
+      <file href="scormdriver/scormdriver.js" />
+      <file href="scormdriver/browsersniff.js" />
+
+      <!-- RUNTIME COMMON STUFF -->
+      <file href="scormcontent/index.html" />
+      <file href="scormcontent/lib/main.bundle.js"/>
+
+      
+        <file href="scormcontent/lib/fonts/icomoon.ttf"/>
+        <file href="scormcontent/lib/fonts/icomoon.woff"/>
+
+        <file href="scormcontent/lib/icomoon.css"/>
+        <file href="scormcontent/lib/main.bundle.css"/>
+        <file href="scormcontent/lib/player-0.0.11.min.js"/>
+        <file href="scormcontent/lib/lzwcompress.js"/>
+      
+
+      <!-- RUNTIME CONTENT STUFF -->
+      <file href="scormcontent/lib/fonts/00f3MZdWgfFdWnOv-Raleway-Italic.woff" />
+<file href="scormcontent/lib/fonts/jsKWKEZQmFIa3rlE-Raleway-Bold.woff" />
+<file href="scormcontent/lib/fonts/pcZdMiBXkbEwWMks-Raleway-Regular.woff" />
+<file href="scormcontent/lib/fonts/Lato-Light.woff" />
+<file href="scormcontent/lib/fonts/Lato-Regular.woff" />
+<file href="scormcontent/lib/fonts/Lato-Bold.woff" />
+<file href="scormcontent/lib/fonts/Lato-Italic.woff" />
+<file href="scormcontent/lib/fonts/Lato-Black.woff" />
+<file href="scormcontent/assets/GItQJ0D2NXGPOtzI_small.png" />
+<file href="scormcontent/assets/Nv6Ai5ZISfE56-V6_mJbgDNAv-MWKO7ll.png" />
+<file href="scormcontent/assets/mjModjfj9R1JPCUI_ianY0I0A7geZB-eE-divider_bottom_2_NOPROCESS_.png" />
+<file href="scormcontent/assets/FTcHu9ulGyaMd_T7_YnWh4r8311maWgf9.png" />
+<file href="scormcontent/assets/yZZctxVs0I2uBUsc_YC9HldZTug8DNjb-.png" />
+<file href="scormcontent/assets/FKLjWRjFoRcFECG4_6csbCz0aIbqr2Wzp.png" />
+<file href="scormcontent/assets/gTM3z2T_gEjBiD4X_PNWEioZ3CmHuCr4s.png" />
+<file href="scormcontent/assets/QKliJySWdIWgy5Hf_PQPY40Ne2_11c49M.png" />
+<file href="scormcontent/assets/GqBE53hXkEU8PMJb_-OXPHb8v1yOQ_xlc-MOD_00.IMAGEN.SEPARADOR_NOPROCESS_.png" />
+<file href="scormcontent/assets/BWXfWLOfObmo1EdL_UpjPq94mAsPcMQa4.png" />
+<file href="scormcontent/assets/f9aW-K6JfZYTQMK8_vb2KNwI46yf3sa33.png" />
+<file href="scormcontent/assets/BF8dApNx1AMdss0d_xMV4DVRmKo73ZJYp.png" />
+<file href="scormcontent/assets/tsnuPI2w1MoI2IYI_NYwD3Czi4kgBqXLo.png" />
+<file href="scormcontent/assets/Cz21RxCSUCZ_h1XL_1gd0yaPo09YwiBgN.png" />
+<file href="scormcontent/assets/exjqcAjfGSN0Inc__stC1PGc-53obaz6m.png" />
+<file href="scormcontent/assets/AgpEioNyPNKSOtGn_pjEK7tL7Q1vz5rtZ.png" />
+<file href="scormcontent/assets/XNtlajxwPkzJrSVH_jAttyevyvZ0WLogp-MOD_02.DOCUMENTO.ECUACIONES_PARAMETRICAS.pdf" />
+<file href="scormcontent/assets/ikLH3dyinBPkOK9p_a8HvJtneaHejgBfe.png" />
+<file href="scormcontent/assets/aUZ6TPRrCU33Y6Gh_U4pn6yBBNoTpH7uQ.png" />
+<file href="scormcontent/assets/EspzUXAdfNb5xn33_NvE1AJ-pEwdkCzAB.png" />
+<file href="scormcontent/assets/lza1PQKdSwELtzn0_6wlI29sUN-PKX6XR.png" />
+<file href="scormcontent/assets/eKKYM2kIq6JWfygl_86Zl4AYFkberJFHp-MOD_02.DOCUMENTO.FUNCIONES_IMPLICITAS.pdf" />
+<file href="scormcontent/assets/LVBgs_lBFPO4z-xf_vjd-yrW-jwa-1gmm.png" />
+<file href="scormcontent/assets/wgjQG7pjZewpKz58_VNWDdpAkND0WKMFs.png" />
+<file href="scormcontent/assets/tZrEJhCPg3d3oa3r_WV65AvQTBTyIf6oV.png" />
+<file href="scormcontent/assets/YjnVkZ41-N1mPH6v_t6M296cgmjC1QNPQ.png" />
+<file href="scormcontent/assets/Xox06WV0sMoZAgOh_BM11_ptb1LvLU0Rz.png" />
+<file href="scormcontent/assets/1QIcbOEG1o_Fi1yO_gTxn9wK49GgwjjV5-Calculo_derivadas_Python.txt" />
+<file href="scormcontent/assets/Ou9-KSwLWD36Jp2o_E5oi5e9Z9OJZq1hm.png" />
+<file href="scormcontent/assets/QNXSkzKif0r1_NB7_djJN_TCtY2qcXTy2.png" />
+<file href="scormcontent/assets/priDVmNP-PU0lSua_5osnq-K8lwq_cJ_0.png" />
+<file href="scormcontent/assets/TU-GD6fnHE0NdKre_D7EunQWjD3VmR3Bs.png" />
+<file href="scormcontent/assets/SzqIPqcKiIQS5VUy_vPGjv4URjZEUptOb.png" />
+<file href="scormcontent/assets/uJd8JHHitSf9us1s_qDjl35eGdip3SKin.png" />
+<file href="scormcontent/assets/iXF6E7Cz5rqITGHq_oDpCS03lcKB5-nVc.jpg" />
+
+    </resource>
+  </resources>
+</manifest>
